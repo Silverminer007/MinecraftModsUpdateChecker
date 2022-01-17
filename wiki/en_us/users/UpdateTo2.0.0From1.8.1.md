@@ -9,7 +9,7 @@ your worlds you can follow these steps:
 
 1. Download the latest Shrines structures release from major version 2.x.x and place it in you mods folder
 2. Download Compatibility Structures package [here](../../data/Included%20Structures.zip)
-3. Extract that archive to your shrines-saves directory
+3. Extract that archive to your Packets directory inside your shrines-saves directory
    1. Shrines-saves is a directory inside your minecraft directory (where that is depends on your installation)
    2. If that directory doesn't exist, create it
 4. Now you should be able to start the game and use shrines structures version 2.x.x without problem
