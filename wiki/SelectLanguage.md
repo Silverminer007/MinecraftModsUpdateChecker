@@ -1,4 +1,4 @@
-# Please select a language
+# We have moved our wiki one more time
 
- - [English](en_us/Home.md) (Work in progress)
- - [German](de_de/Home.md) (Planned)
+[Here is the new Wiki](https://silverminer007.github.io/ShrinesWiki/)
+Hopefully this one will be the final place
