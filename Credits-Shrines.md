@@ -15,6 +15,7 @@ I want to name some people specially. Everybody in this list contributed to the 
 - Tikofan
 - Aurelj
 - ThanatosLP_
+- LadyJessa
 
 ### Novels
 - pea_sh0ter
